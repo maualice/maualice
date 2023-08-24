@@ -1,13 +1,33 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="">, I'm Mauro</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/maualice/maualice/blob/main/Resources/waving.gif">, I'm Mauro</h1>
 </div>
 
 <div align="center">
-  <a href="">
-  <img  src=""
-       alt="snake" /></a>
+  <img  src="https://github.com/maualice/maualice/blob/main/Resources/grid-snake.svg"
+       alt="snake" />
 </div>
 
+
+## <picture> <img src = "" width = 50px>  </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maualice&theme=tokyonight)](https://git.io/streak-stats)
+
+</details>
+
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="maualice's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maualice&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maualice&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="maualice" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+  
 <!--
 **maualice/maualice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
