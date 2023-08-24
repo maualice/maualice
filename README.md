@@ -7,8 +7,9 @@
        alt="snake" />
 </div>
 
+## <picture><img src = "" width = 45px></picture> About me
 
-## <picture> <img src = "" width = 50px>  </picture> Github Stats
+## <picture> <img src = "" width = 50px> </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
