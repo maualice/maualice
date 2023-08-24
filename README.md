@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi <img width="35" src="">, I'm Mauro</h1>
+</div>
+
+<div align="center">
+  <a href="">
+  <img  src=""
+       alt="snake" /></a>
+</div>
 
 <!--
 **maualice/maualice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
