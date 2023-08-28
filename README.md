@@ -7,9 +7,9 @@
        alt="snake" />
 </div>
 
-## <picture><img src = "" width = 45px></picture> About me
+## <picture><img src = "https://github.com/maualice/maualice/blob/main/Resources/about_me.gif" width = 40px></picture> About me
 
-## <picture> <img src = "" width = 50px> </picture> Github Stats
+## <picture> <img src = "https://github.com/maualice/maualice/blob/main/Resources/Statistics.gif" width = 50px> </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
@@ -28,7 +28,11 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-  
+
+<br/>
+<h3 align="center">Connect with me <img src="" width="30" height="30" style="margin-right: 10px;"></h3>  
+
+
 <!--
 **maualice/maualice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
