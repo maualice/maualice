@@ -6,7 +6,6 @@
 
 ## <picture><img src = "https://github.com/maualice/maualice/blob/main/Resources/about_me.gif" width = 35px></picture> About me
 
-
 <!-- LANGUAGES AND TOOLS -->
 <hr>
 <h2 align="center">Languages and Tools:</h2>
@@ -55,7 +54,7 @@
 <hr>      
 <h2 align="center">Connect with me: <img src="https://github.com/maualice/maualice/blob/main/Resources/handshake.gif" width="50" height="40"></h2>
 <p align="center">
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/maualice/maualice/main/Resources/Icons/gmail-logo.png" alt="gmail-logo" height="45" width="45" /></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/maualice/maualice/main/Resources/Icons/gmail-logo.png" alt="gmail-logo" height="55" width="45" /></a>
   <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/maualice/maualice/main/Resources/Icons/linkedin-logo.png" alt="linkedin-logo" height="35" width="40" /></a>
 </p>
 
@@ -63,6 +62,12 @@
   <img  src="https://github.com/maualice/maualice/blob/main/Resources/grid-snake.svg"
        alt="snake" />
 </div>
+
+
+<!-- <a href="https://github.com/maualice/store-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maualice&theme=highcontrast&repo=store-api" />
+</a> -->
+
 
 <!--
 **maualice/maualice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
