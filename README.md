@@ -54,7 +54,7 @@
 <hr>      
 <h2 align="center">Connect with me: <img src="https://github.com/maualice/maualice/blob/main/Resources/handshake.gif" width="50" height="40"></h2>
 <p align="center">
-  <a href="alicemauroe@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maualice/maualice/main/Resources/Icons/gmail-logo.png" alt="gmail-logo" height="55" width="45" /></a>
+  <a href="mailto:alicemauroe@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maualice/maualice/main/Resources/Icons/gmail-logo.png" alt="gmail-logo" height="55" width="45" /></a>
   <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/maualice/maualice/main/Resources/Icons/linkedin-logo.png" alt="linkedin-logo" height="35" width="40" /></a>
 </p>
 
