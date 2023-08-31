@@ -6,6 +6,13 @@
 
 ## <picture><img src = "https://github.com/maualice/maualice/blob/main/Resources/about_me.gif" width = 35px></picture> About me
 
+- :school: I'm a student of information systems engineering
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: **Learning :** Full-Stack Development
+- :nerd_face: Always `learning new things`.
+- :zap: **Fact :** It's never late to get started
+- :boom: Ask me about anything, I am happy to help.
+
 <!-- LANGUAGES AND TOOLS -->
 <hr>
 <h2 align="center">Languages and Tools:</h2>
@@ -28,19 +35,21 @@
 
 ## <picture> <img src = "https://github.com/maualice/maualice/blob/main/Resources/Statistics.gif" width = 40px> </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<details><summary><h3> :fire: Streak Stats</h3></summary>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maualice&theme=tokyonight)](https://git.io/streak-stats)
 
 </details>
 
 <!-- GITHUB STATS -->
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3> :computer: GitHub Profile Stats</h3></summary>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="maualice's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maualice&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maualice&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="maualice" height="230px"/>
+	    <!-- <img alt="maualice's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maualice&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a> -->
+      <img alt="maualice's Github Stats" src="https://github-readme-stats-five-alpha-76.vercel.app/api?username=maualice&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maualice&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="maualice" height="230px"/> -->
+      <img src="https://github-readme-stats-five-alpha-76.vercel.app/api/top-langs?username=maualice&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="maualice" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -55,8 +64,13 @@
 <h2 align="center">Connect with me: <img src="https://github.com/maualice/maualice/blob/main/Resources/handshake.gif" width="50" height="40"></h2>
 <p align="center">
   <a href="mailto:alicemauroe@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maualice/maualice/main/Resources/Icons/gmail-logo.png" alt="gmail-logo" height="55" width="45" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/maualice/maualice/main/Resources/Icons/linkedin-logo.png" alt="linkedin-logo" height="35" width="40" /></a>
+  <a href="https://linkedin.com/in/maualice" target="blank"><img align="center" src="https://raw.githubusercontent.com/maualice/maualice/main/Resources/Icons/linkedin-logo.png" alt="linkedin-logo" height="35" width="40" /></a>
 </p>
+
+<!-- <p align="center">
+<a href="https://www.linkedin.com/in/maualice/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-maualice-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:alicemauroe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alicemauroe@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p> -->
 
 <div align="center">
   <img  src="https://github.com/maualice/maualice/blob/main/Resources/grid-snake.svg"
