@@ -52,7 +52,9 @@
       <img src="https://github-readme-stats-five-alpha-76.vercel.app/api/top-langs?username=maualice&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="maualice" height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  _**Important!!**_ Please refresh the page if you don´t see the stats 
   </p>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=maualice&label=Profile%20views&color=0e75b6&style=flat" alt="maualice" /></p>
